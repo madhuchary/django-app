@@ -36,6 +36,8 @@ wget https://github.com/gocd-contrib/github-oauth-authorization-plugin/releases/
 6. Click **Generate token**.
 7. Copy the generated token and save it. 
 
+## Step 3
+
 ### Create Authorization Configuration
 
 1. Login to `GoCD server` as admin and navigate to **_Admin_** _>_ **_Security_** _>_ **_Authorization Configuration_**
